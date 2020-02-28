@@ -5,3 +5,4 @@ data:
     path: "classpath:data/profiles.csv"
   factions:
     path: "classpath:data/factions.csv"
+
